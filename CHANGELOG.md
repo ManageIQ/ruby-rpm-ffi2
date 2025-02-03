@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
+
+## [0.1.0] - 2025-02-03
 ### Added
 - Detect librpm.so.8
 - Make rpm_version_macro available in c/rpmmacro
@@ -56,7 +58,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - Fix name not getting set. Better use headerPutString
 - Fix RPM#[]
 
-[Unreleased]: https://github.com/ManageIQ/ruby-rpm-ffi2/compare/v0.0.5...HEAD
+[Unreleased]: https://github.com/ManageIQ/ruby-rpm-ffi2/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/ManageIQ/ruby-rpm-ffi2/compare/v0.0.5...v0.1.0
 [0.0.5]: https://github.com/ManageIQ/ruby-rpm-ffi2/compare/v0.0.4...v0.0.5
 [0.0.4]: https://github.com/ManageIQ/ruby-rpm-ffi2/compare/v0.0.3...v0.0.4
 [0.0.3]: https://github.com/ManageIQ/ruby-rpm-ffi2/compare/v0.0.2...v0.0.3
